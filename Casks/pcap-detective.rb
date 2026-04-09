@@ -1,6 +1,6 @@
 cask "pcap-detective" do
-  version "2.0.3"
-  sha256 "ead5ad334e2e0f2103b86ad6bfb7828b50d189ec01617e034828efa20de1b40c"
+  version "2.1.0"
+  sha256 "cefd86b715ee1c214041a01747307eba3922129cbfcfb476379bbd8b0386809b"
 
   url "https://github.com/BardSec/pcap-detective/releases/download/v#{version}/PCAP-Detective-macOS.dmg"
   name "PCAP Detective"
